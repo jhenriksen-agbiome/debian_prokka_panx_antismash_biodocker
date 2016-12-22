@@ -8,7 +8,7 @@
 # Code:             https://bitbucket.org/antismash/antismash/downloads/
 # Base Image:       debian:jessie
 # Build Cmd:        sudo docker build -t debian_antismash:antismash3.0.5_docker1.0 .
-# Pull Cmd:         docker pull debian_antismash:antismash3.0.5_docker1.0
+# Pull Cmd:         docker pull debian_prokka:prokka_latest_docker1.0
 # Run Cmd:          sudo docker run -it --rm -v /home:/home --name=antismash3.0.5 debian_antismash:antismash3.0.5_docker1.0
 # File Author / Maintainer: cheng gong <512543469@qq.com>
 #################################################################

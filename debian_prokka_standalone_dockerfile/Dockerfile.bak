@@ -2,8 +2,8 @@
 # Dockerfile
 #
 # Version:          1.0
-# Software:         prokka
-# Software Version: 1.12
+# Software:         panX
+# Software Version: 1.0
 # Description:      Microbial pan-genome analysis and exploration toolkit
 # Code:             https://github.com/neherlab/pan-genome-analysis
 # Base Image:       debian:jessie
